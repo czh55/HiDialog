@@ -1,5 +1,5 @@
 #include "holefillinginteractiveoperationdialog.h"
-#include "../build/ui_holefillinginteractiveoperationdialog.h"
+#include "ui_holefillinginteractiveoperationdialog.h"
 #include <iostream>
 #include "pclviewer.h"
 #include "earclip2.h"

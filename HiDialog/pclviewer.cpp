@@ -1,5 +1,5 @@
 ﻿#include "pclviewer.h"
-#include "../build/ui_pclviewer.h"
+#include "ui_pclviewer.h"
 
 #include <QFileDialog>
 #include <QString>
@@ -2759,5 +2759,5 @@ void PCLViewer::on_action_21_triggered()
                 cout << endl;
             }
         }
-    }while(true)
+	} while (true);
 }

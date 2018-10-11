@@ -1,5 +1,5 @@
 #include "setparams_simpilyverticessize_dialog.h"
-#include "../build/ui_setparams_simpilyverticessize_dialog.h"
+#include "ui_setparams_simpilyverticessize_dialog.h"
 #include <QMessageBox>
 #include <QStringList>
 
@@ -21,9 +21,6 @@ SetParams_SimpilyVerticesSize_Dialog::~SetParams_SimpilyVerticesSize_Dialog()
 
 void SetParams_SimpilyVerticesSize_Dialog::initTable()
 {
-    ui->tableView->horizontalHeader()->setResizeMode(0, QHeaderView::Fixed);
-    ui->tableView->horizontalHeader()->setResizeMode(1, QHeaderView::Fixed);
-    ui->tableView->horizontalHeader()->setResizeMode(2, QHeaderView::Fixed);
     // 设置表格每列的宽度
     ui->tableView->setColumnWidth(0, 100);
     ui->tableView->setColumnWidth(1, 600);
