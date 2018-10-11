@@ -1,5 +1,4 @@
 #include "setparams_simpilyverticessize_dialog.h"
-#include "../build/ui_setparams_simpilyverticessize_dialog.h"
 #include <QMessageBox>
 #include <QStringList>
 

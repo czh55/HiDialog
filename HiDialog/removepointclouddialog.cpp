@@ -1,5 +1,4 @@
 #include "removepointclouddialog.h"
-#include "../build/ui_removepointclouddialog.h"
 
 RemovePointCloudDialog::RemovePointCloudDialog(QWidget *parent) :
     QDialog(parent),

@@ -1,5 +1,4 @@
 #include "setbgcolordialog.h"
-#include "../build/ui_setbgcolordialog.h"
 #include <iostream>
 
 SetBGColorDialog::SetBGColorDialog(QWidget *parent) :

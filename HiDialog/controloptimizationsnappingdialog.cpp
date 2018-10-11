@@ -1,6 +1,4 @@
 #include "controloptimizationsnappingdialog.h"
-#include "../build/ui_controloptimizationsnappingdialog.h"
-
 #include "pclviewer.h"
 
 ControlOptimizationSnappingDialog::ControlOptimizationSnappingDialog(QWidget *parent) :

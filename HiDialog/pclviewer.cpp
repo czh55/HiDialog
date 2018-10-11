@@ -1,5 +1,4 @@
 ﻿#include "pclviewer.h"
-#include "../build/ui_pclviewer.h"
 
 #include <QFileDialog>
 #include <QString>

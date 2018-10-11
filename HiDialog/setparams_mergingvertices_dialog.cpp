@@ -1,5 +1,4 @@
 #include "setparams_mergingvertices_dialog.h"
-#include "../build/ui_setparams_mergingvertices_dialog.h"
 #include <QMessageBox>
 #include <QStringList>
 
