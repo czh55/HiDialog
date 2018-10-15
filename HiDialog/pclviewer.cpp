@@ -9,7 +9,7 @@
 #include <QTextStream>
 
 #include <queue>
-#include<algorithm>
+#include <algorithm>
 
 #include "setbgcolordialog.h"
 #include "removepointclouddialog.h"
