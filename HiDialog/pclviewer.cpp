@@ -15,9 +15,7 @@
 #include "removepointclouddialog.h"
 #include "setparams_simpilyverticessize_dialog.h"
 #include "setparams_mergingvertices_dialog.h"
-#include "controloptimizationsnappingdialog.h"
-#include "earclip.h"
-#include "earclip2.h"
+
 
 const int CMD_Size = 128;
 char CMD[CMD_Size];

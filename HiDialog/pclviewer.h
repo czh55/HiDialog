@@ -20,13 +20,13 @@
 #include <vtkRenderWindow.h>
 
 // local
-#include "initialPoly.h"
 #include "SimplifyVerticesSize.h"
-#include "snappingvertices.h"
-#include "controloptimizationsnappingdialog.h"
 #include "osnap.h"
-#include "holefilling.h"
+#include "earclip2.h"
+
 #include "holefillinginteractiveoperationdialog.h"
+#include "controloptimizationsnappingdialog.h"
+
 
 using namespace std;
 

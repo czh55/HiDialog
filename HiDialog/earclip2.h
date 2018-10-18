@@ -3,7 +3,6 @@
 
 #include <pcl/point_cloud.h>
 #include <vector>
-#include "snappingvertices.h"
 #include "holefilling.h"
 #include "earclip.h"
 
